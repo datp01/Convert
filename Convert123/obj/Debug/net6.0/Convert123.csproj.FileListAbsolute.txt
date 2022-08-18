@@ -1,0 +1,5 @@
+D:\Aptech\S2\C#\Convert123\Convert123\obj\Debug\net6.0\Convert123.csproj.AssemblyReference.cache
+D:\Aptech\S2\C#\Convert123\Convert123\obj\Debug\net6.0\Convert123.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aptech\S2\C#\Convert123\Convert123\obj\Debug\net6.0\Convert123.AssemblyInfoInputs.cache
+D:\Aptech\S2\C#\Convert123\Convert123\obj\Debug\net6.0\Convert123.AssemblyInfo.cs
+D:\Aptech\S2\C#\Convert123\Convert123\obj\Debug\net6.0\Convert123.csproj.CoreCompileInputs.cache
