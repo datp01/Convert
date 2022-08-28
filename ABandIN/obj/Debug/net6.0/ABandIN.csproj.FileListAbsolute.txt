@@ -1,0 +1,5 @@
+D:\Aptech\S2\C#\ABandIN\ABandIN\obj\Debug\net6.0\ABandIN.csproj.AssemblyReference.cache
+D:\Aptech\S2\C#\ABandIN\ABandIN\obj\Debug\net6.0\ABandIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aptech\S2\C#\ABandIN\ABandIN\obj\Debug\net6.0\ABandIN.AssemblyInfoInputs.cache
+D:\Aptech\S2\C#\ABandIN\ABandIN\obj\Debug\net6.0\ABandIN.AssemblyInfo.cs
+D:\Aptech\S2\C#\ABandIN\ABandIN\obj\Debug\net6.0\ABandIN.csproj.CoreCompileInputs.cache
